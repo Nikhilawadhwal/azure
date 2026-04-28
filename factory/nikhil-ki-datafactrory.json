@@ -1,0 +1,15 @@
+{
+	"name": "nikhil-ki-datafactrory",
+	"properties": {
+		"trustModeClaimForMi": {
+			"value": "Enabled",
+			"editable": true
+		}
+	},
+	"location": "centralindia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "593ff067-5971-44d1-b287-ebf5bb8c2219",
+		"tenantId": "6e8bc215-ab99-4e71-a4ad-9507287d226e"
+	}
+}
